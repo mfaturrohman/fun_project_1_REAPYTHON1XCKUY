@@ -33,4 +33,7 @@ Jika terjadi skor **imbang**, maka semua karir dengan skor tertinggi akan ditamp
    python -m venv myenv
    source myenv/bin/activate  # MacOS / linux
 
-   myenv\Scripts\activate
+   myenv\Scripts\activate # Windows
+
+3. **Install Streamlit** ketikkan `pip install streamlit`
+4. **Jalankan aplikasi** ketikkan `streamlit run app.py`
