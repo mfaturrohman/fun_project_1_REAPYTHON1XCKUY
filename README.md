@@ -30,5 +30,7 @@ Jika terjadi skor **imbang**, maka semua karir dengan skor tertinggi akan ditamp
 1. **Clone repository ini** atau salin file script `.py` ke folder lokal.
 2. **Buat dan aktifkan environment (opsional)**:
    ```bash
-   python -m venv env
-   source env/bin/activate  # atau .\env\Scripts\activate di Windows
+   python -m venv myenv
+   source myenv/bin/activate  # MacOS / linux
+
+   myenv\Scripts\activate
