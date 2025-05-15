@@ -29,12 +29,11 @@ Jika terjadi skor **imbang**, maka semua karir dengan skor tertinggi akan ditamp
 
 1. **Clone repository ini** atau salin file script `.py` ke folder lokal.
 2. **Buat dan aktifkan environment (opsional)**:
-   ```bash
-   python -m venv myenv
-   
-   source myenv/bin/activate  # MacOS / linux
+   `python -m venv myenv`
 
-   myenv\Scripts\activate # Windows
+   `source myenv/bin/activate  # MacOS / linux`
+
+   `myenv\Scripts\activate # Windows`
 
 3. **Install Streamlit** ketikkan `pip install streamlit`
 4. **Jalankan aplikasi** ketikkan `streamlit run app.py`
