@@ -31,6 +31,7 @@ Jika terjadi skor **imbang**, maka semua karir dengan skor tertinggi akan ditamp
 2. **Buat dan aktifkan environment (opsional)**:
    ```bash
    python -m venv myenv
+   
    source myenv/bin/activate  # MacOS / linux
 
    myenv\Scripts\activate # Windows
