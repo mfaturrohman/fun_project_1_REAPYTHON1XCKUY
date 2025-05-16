@@ -37,3 +37,8 @@ Jika terjadi skor **imbang**, maka semua karir dengan skor tertinggi akan ditamp
 
 3. **Install Streamlit** ketikkan `pip install streamlit`
 4. **Jalankan aplikasi** ketikkan `streamlit run app.py`
+
+
+## 📽️ Preview APP
+
+https://github.com/user-attachments/assets/e549c12e-58eb-4816-b5ea-f024ed29b7ca
